@@ -85,7 +85,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
         </div>
         <ul>
-          <li>📊 <b>Finance & Tracking Apps</b> using Flutter</li>
           <li>🚀 Cross-platform Mobile Applications with Dart</li>
         </ul>
         <h3>🤖 AI & Machine Learning</h3>
