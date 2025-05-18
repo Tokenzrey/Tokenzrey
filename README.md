@@ -118,7 +118,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
@@ -202,8 +201,6 @@
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
@@ -232,24 +229,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </p>
-
----
-
-## 🧠 Development Methodologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Agile-0078D7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-06B6D4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TDD-2E9FD5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DDD-FE5196?style=for-the-badge">
-</p>
-
----
 
 ## 🛠️ Tools & Others
 
@@ -306,15 +285,45 @@
 
 <!-- FEATURED REPOS -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Featured Projects</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25" />
+    Featured Projects
+  </h2>
   <p>Check out some of my highlighted projects</p>
+
+  <!-- Row 1 -->
   <a href="https://github.com/Tokenzrey/ShipRouting">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tokenzrey&repo=ShipRouting&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ShipRouting Repository" />
+    <img
+      width="49%"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tokenzrey&repo=ShipRouting&theme=tokyonight&hide_border=true&bg_color=0D1117"
+      alt="ShipRouting Repository"
+    />
   </a>
   <a href="https://github.com/Tokenzrey/Asset-Management">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tokenzrey&repo=Asset-Management&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Asset-Management Repository" />
+    <img
+      width="49%"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tokenzrey&repo=Asset-Management&theme=tokyonight&hide_border=true&bg_color=0D1117"
+      alt="Asset Management Repository"
+    />
+  </a>
+
+  <!-- Row 2 -->
+  <a href="https://github.com/HMTCITS/hmtc-frontend-2025">
+    <img
+      width="49%"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HMTCITS&repo=hmtc-frontend-2025&theme=tokyonight&hide_border=true&bg_color=0D1117"
+      alt="HMTC ITS Frontend 2025 Repository"
+    />
+  </a>
+  <a href="https://github.com/Tokenzrey/Boilerplate-NextJS">
+    <img
+      width="49%"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tokenzrey&repo=Boilerplate-NextJS&theme=tokyonight&hide_border=true&bg_color=0D1117"
+      alt="Boilerplate NextJS Repository"
+    />
   </a>
 </div>
+
 
 <!-- QUOTE -->
 <div align="center">
